@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/free_time_app_2020/static/css/main.538ab23a.chunk.css",
+    "main.css": "/free_time_app_2020/static/css/main.856d56e7.chunk.css",
     "main.js": "/free_time_app_2020/static/js/main.579163e2.chunk.js",
     "main.js.map": "/free_time_app_2020/static/js/main.579163e2.chunk.js.map",
     "runtime-main.js": "/free_time_app_2020/static/js/runtime-main.3fa886fa.js",
@@ -8,15 +8,15 @@
     "static/js/2.c3c9ebb4.chunk.js": "/free_time_app_2020/static/js/2.c3c9ebb4.chunk.js",
     "static/js/2.c3c9ebb4.chunk.js.map": "/free_time_app_2020/static/js/2.c3c9ebb4.chunk.js.map",
     "index.html": "/free_time_app_2020/index.html",
-    "precache-manifest.ef226455f8e60b9891b7a6b56004c18f.js": "/free_time_app_2020/precache-manifest.ef226455f8e60b9891b7a6b56004c18f.js",
+    "precache-manifest.8e40cf1686ab2658e9081f69e3e82333.js": "/free_time_app_2020/precache-manifest.8e40cf1686ab2658e9081f69e3e82333.js",
     "service-worker.js": "/free_time_app_2020/service-worker.js",
-    "static/css/main.538ab23a.chunk.css.map": "/free_time_app_2020/static/css/main.538ab23a.chunk.css.map",
+    "static/css/main.856d56e7.chunk.css.map": "/free_time_app_2020/static/css/main.856d56e7.chunk.css.map",
     "static/js/2.c3c9ebb4.chunk.js.LICENSE.txt": "/free_time_app_2020/static/js/2.c3c9ebb4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3fa886fa.js",
     "static/js/2.c3c9ebb4.chunk.js",
-    "static/css/main.538ab23a.chunk.css",
+    "static/css/main.856d56e7.chunk.css",
     "static/js/main.579163e2.chunk.js"
   ]
 }
